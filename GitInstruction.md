@@ -16,6 +16,7 @@
 [Сайт для скачивания VSCode](https://code.visualstudio.com/download)
 
 ### Установка git на ваш ПК
+[Сайт для скачивания GIT](https://git-scm.com/downloads)
 
 #### Первая настройка git
 
