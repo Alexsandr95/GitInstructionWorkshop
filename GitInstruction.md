@@ -135,5 +135,12 @@ git push
 * На сайте GitHub нажимаем кнопку pull request
 
 ## Книги и полезные ссылки по изучению git.
+Ссылки
 
+[Git для новичков 1 часть](https://habr.com/ru/articles/541258/)
+
+[Git для новичков 2 часть](https://habr.com/ru/articles/542616/)
+
+Книга 
+[Книга про GIT](https://git-scm.com/book/ru/v2)
 ## Альтернативные системы контроля версий.
