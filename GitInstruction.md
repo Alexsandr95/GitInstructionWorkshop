@@ -143,4 +143,9 @@ git push
 
 Книга 
 [Книга про GIT](https://git-scm.com/book/ru/v2)
+
 ## Альтернативные системы контроля версий.
+
+1. SVN
+2. CVS
+3. Mercurial
